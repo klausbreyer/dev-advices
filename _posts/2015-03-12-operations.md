@@ -1,7 +1,7 @@
 ---
 title: "Operations"
-bg: white
-color: black
+bg: purple
+color: white
 fa-icon: gears
 ---
 
