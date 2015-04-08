@@ -1,31 +1,9 @@
 ---
-title: "Preface"
+title: "Operations"
 bg: white
 color: black
-style: center
+fa-icon: gears
 ---
-
-### *whoa, hey an open-source*
-{: .text-purple}
-
-<span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
-  <i class="fa fa-circle fa-stack-2x text-white"></i>
-  <i class="fa fa-book fa-stack-1x text-orange"></i>
-</span>
-
-# guide to bootstrap your next big thing
-{: .text-purple}
-
-
-…it's focused on delivering advices quickly. If I had these advices before starting many of my latest projects, everything would be so much easier / better /easier! 
-
-There's currently no reasonable ordering of topics. If you would like to add some advices, open up an issue or an pull request! You can contact me anytime - on [Twitter](https://twitter.com/jollife), [Facebook](https://www.facebook.com/jollife) or [GitHub](https://github.com/johannesnagl)! 
-
-<span id="forkongithub">
-  <a href="{{ site.source_link }}" class="bg-blue">
-    Fork me on GitHub
-  </a>
-</span>
 
 ### Always be up to date
 
